@@ -1,0 +1,24 @@
+<classpath>
+  <classpathentry kind="src" path="src/java"/>
+  <classpathentry kind="src" path="src/test" output="target/test-classes"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/1.6/gson-1.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.10/junit-4.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/pokerace/user-management/0.05/user-management-0.05.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/lightcouch/lightcouch/0.0.6/lightcouch-0.0.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.2.5/httpclient-4.2.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.2.4/httpcore-4.2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.6/commons-codec-1.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/javax.ejb/3.1/javax.ejb-3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/javax.transaction/3.1/javax.transaction-3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/javax.annotation/3.1/javax.annotation-3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/timgroup/jgravatar/1.1/jgravatar-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4.4/mail-1.4.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/glassfish/main/extras/glassfish-embedded-all/3.1.2/glassfish-embedded-all-3.1.2.jar"/>
+</classpath>
